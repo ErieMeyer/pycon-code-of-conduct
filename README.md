@@ -15,3 +15,6 @@ We hope, as a team we can iterate and improve continually.
 
 No changes are final until approved by the PyCon Chair / Staff and versions in place for a given year will be clearly
 marked, the website contents on us.pycon.org will clearly state the revision of the documents posted.
+
+
+Thanks to the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
